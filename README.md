@@ -25,7 +25,7 @@
 
 ## Embedded software, Hardware Engineer!!
 - ✍ Work as R&D Engineer at Green Electronics 
-- 🔭 I’m currently working on Serval Project.
+- 🔭 Hardware design, PCB layout and Software Development
 - 🌱 I’m currently learning Embedded linux and C++
 - 👯 I’m looking to collaborate on Automotive ADAS Projects
 - 💬 The Rest is History!
