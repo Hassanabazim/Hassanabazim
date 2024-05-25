@@ -74,7 +74,7 @@
 
 
 ## 🚀 Projects
-- **[ETHERNET_MOTION_CONTROLLER](https://github.com/Hassanabazim/ETHERNET_MOTION_CONTROLLER)**
+- **[ETHERNET_MOTION_CONTROLLER](https://github.com/Hassanabazim/)**
 - **[NTI4MONTH_GP "Self Driving Car Level2"](https://github.com/Hassanabazim/NTI4M-ADAS_GP)**
 - **[STM32 INTERFACING WITH W5500 ETHERNET MODULE (TCP/UDP)](https://github.com/Hassanabazim/STM32_W5500)**
 - **[ES_ST32_BAREMETAL (STARTUPCODE, LINKERSCRIPT, BATCH, MAKEFILE)](https://github.com/Hassanabazim/ES_ST32Bluepill_BareMetal)**
