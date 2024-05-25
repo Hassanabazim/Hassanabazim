@@ -75,6 +75,42 @@
 - **[CS50 BY HARVARD UNIVERSITY AND EDX](https://github.com/Hassanabazim/CS50)**
 - **[COMPUTER-VISION-BASICS_COURSERA](https://github.com/Hassanabazim/Computer-Vision-Basics)**
 
+## Featuring YouTube Videos
+
+- **STM32 with W5500 Ethernet Module**  
+  [![STM32 with W5500 Ethernet Module](https://img.youtube.com/vi/5M5-zH2IcS0/0.jpg)](https://www.youtube.com/watch?v=5M5-zH2IcS0&ab_channel=HassanAbdelazim)
+
+- **Configurable LED Blink in run time with makefile, openocd, and semi hosting system calls**  
+  [![Configurable LED Blink in run time with makefile, openocd, and semi hosting system calls](https://img.youtube.com/vi/9gLAfe_VuO4/0.jpg)](https://www.youtube.com/watch?v=9gLAfe_VuO4&t=7s&ab_channel=HassanAbdelazim)
+
+- **NTI- Self Driving car Level 2**  
+  [![NTI- Self Driving car Level 2](https://img.youtube.com/vi/vTlQWRqVwoI/0.jpg)](https://www.youtube.com/watch?v=vTlQWRqVwoI&t=2s&ab_channel=HassanAbdelazim)
+
+- **Chat-Application with Atmega32 using UART and SPI**  
+  [![Chat-Application with Atmega32 using UART and SPI](https://img.youtube.com/vi/QnZMxouLXVM/0.jpg)](https://www.youtube.com/watch?v=QnZMxouLXVM&ab_channel=HassanAbdelazim)
+
+- **Payment Application FWD Professional Embedded system by udacity**  
+  [![Payment Application FWD Professional Embedded system by udacity](https://img.youtube.com/vi/8lXzV6om3Vg/0.jpg)](https://www.youtube.com/watch?v=8lXzV6om3Vg&t=388s&ab_channel=HassanAbdelazim)
+
+- **On Demand Traffic light FWD**  
+  [![On Demand Traffic light FWD](https://img.youtube.com/vi/kIwPYHmGPNw/0.jpg)](https://www.youtube.com/watch?v=kIwPYHmGPNw&t=15s&ab_channel=HassanAbdelazim)
+
+---
+
+- **SMART HOME SYSTEM with Atmega32 and EEPROM**  
+  [![SMART HOME SYSTEM with Atmega32 and EEPROM](https://img.youtube.com/vi/aN1HfuKnM64/0.jpg)](https://www.youtube.com/watch?v=aN1HfuKnM64&t=89s&ab_channel=HassanAbdelazim)
+
+- **CONFIG DUTY CYCLE with Atmega32**  
+  [![CONFIG DUTY CYCLE with Atmega32](https://img.youtube.com/vi/sYTo0EYj4J4/0.jpg)](https://www.youtube.com/watch?v=sYTo0EYj4J4&t=3s&ab_channel=HassanAbdelazim)
+
+- **SMALL OS with Atmega32**  
+  [![SMALL OS with Atmega32](https://img.youtube.com/vi/lO1FwNaJBKg/0.jpg)](https://www.youtube.com/watch?v=lO1FwNaJBKg&ab_channel=HassanAbdelazim)
+
+- **FIRE ALARM SYSTEM with two - Atmega32**  
+  [![FIRE ALARM SYSTEM with two - Atmega32](https://img.youtube.com/vi/xLC9O0tO8LU/0.jpg)](https://www.youtube.com/watch?v=xLC9O0tO8LU&ab_channel=HassanAbdelazim)
+
+- **Self-Driving Cars Specialization - 4th Course - Final Project**  
+  [![Self-Driving Cars Specialization - 4th Course - Final Project](https://img.youtube.com/vi/6QoNNEVN9Sc/0.jpg)](https://www.youtube.com/watch?v=6QoNNEVN9Sc&ab_channel=HassanAbdelazim)
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
