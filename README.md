@@ -1,23 +1,28 @@
-# Hi, I'm Hassan Abdelazeam
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <h2>About Me</h2>
-      <p>Currently, I work as an R&D Engineer at Green Electronics, specializing in building smart systems including circuit design, PCB layout, and software development..</p>
-    </td>
-    <td style="border: none;">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJuaHpsZnFiNHVnZnRrOXYwazhkamd0eHE4MzNyNTd6emF3djNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Animated Gif" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  Welcome to Hassan Abdelazeam's profile!
+</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hassan-abdelazeam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hassanabdelazeam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.youtube.com/@hassanabazim/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</div>
 
 
+## Embedded software, Hardware Engineer!!
+- ✍ Work as R&D Engineer at Green Electronics 
+- 🔭 I’m currently working on Serval Project.
+- 🌱 I’m currently learning Embedded linux and C++
+- 👯 I’m looking to collaborate on Automotive ADAS Projects
+- 💬 The Rest is History!
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-abdelazeam/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hassanabdelazeam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/Hassanabazim)
 
 ## 🛠️ Programming Languages & Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -56,13 +61,17 @@
 ![PIC](https://img.shields.io/badge/PIC-003399?style=flat-square&logoColor=white)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-1B1F23?style=flat-square&logo=nodemcu&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-0091BD?style=flat-square&logo=arm&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+
 
 ## 🚀 Projects
+## 🚀 Projects
+
 - **[ETHERNET_MOTION_CONTROLLER](https://github.com/Hassanabazim/ETHERNET_MOTION_CONTROLLER)**
 - **[NTI4MONTH_GP "Self Driving Car Level2"](https://github.com/Hassanabazim/NTI4M-ADAS_GP)**
 - **[STM32 INTERFACING WITH W5500 ETHERNET MODULE (TCP/UDP)](https://github.com/Hassanabazim/STM32_W5500)**
 - **[ES_ST32_BAREMETAL (STARTUPCODE, LINKERSCRIPT, BATCH, MAKEFILE)](https://github.com/Hassanabazim/ES_ST32Bluepill_BareMetal)**
-- **[FWD_ADVANCED_ES_UDACITY_LED_BLINK(MAKEFILE, SEMIHOSTING, SYSCALLS, OPENOCD)](https://github.com/Hassanabazim/FWD-Advanced-Embedded-System/tree/master/FWD_LED_BLINK)**
+- **[FWD_ADVANCED_ES_UDACITY_LED_BLINK (MAKEFILE, SEMIHOSTING, SYSCALLS, OPENOCD)](https://github.com/Hassanabazim/FWD-Advanced-Embedded-System/tree/master/FWD_LED_BLINK)**
 - **[FWD_ADVANCED_ES_UDACITY_RTOS_USECASES](https://github.com/Hassanabazim/FWD-Advanced-Embedded-System/tree/master/FWD_RTOS_DEMO)**
 - **[FWD_PROFESSIONAL_ES_UDACITY_PAYMENT_APP](https://github.com/Hassanabazim/FWD-Professional-Embedded-System/tree/master/Payment-Application)**
 - **[FWD_PROFESSIONAL_ES_UDACITY_ON_DEMAND_TRAFFIC_LIGHT](https://github.com/Hassanabazim/FWD-Professional-Embedded-System/tree/master/On_Demand_Traffic-Light)**
@@ -72,12 +81,16 @@
 - **[NTI_4M_AUTOMOTIVE_RTOS.APPLICATION](https://github.com/Hassanabazim/NTI-4MAutomotive/tree/master/NTI4M-RTOS)**
 - **[NTI_1M_AVR_INTERFACING_GP "SMART HOME SYSTEM"](https://github.com/Hassanabazim/NTI-SMART-HOME)**
 - **[NTI_1M_AVR_INTERFACING_DRIVES](https://github.com/Hassanabazim/NTI-ATmega32)**
+- **[NTI_1M_AVR_CONFIG_DUTY_CYCLE](https://github.com/Hassanabazim/NTI-ATmega32/tree/master/Projects/Config_DutyCycle)**
+- **[NTI_1M_AVR_FIRE_ALARM_SYSTEM](https://github.com/Hassanabazim/NTI-ATmega32/tree/master/Projects/Fire_AlarmSystem)**
+- **[NTI_1M_AVR_SMALL_OS](https://github.com/Hassanabazim/NTI-ATmega32/tree/master/Projects/SMALL_OS)**
 - **[NTI_1M_ARM_INTERFACING_DRIVES & EX.APP](https://github.com/Hassanabazim/NTI-STM32F103x)**
 - **[EEC230_PIC16877A_EX.APP](https://github.com/Hassanabazim/EEC230)**
 - **[SELF-DRIVING-CARS-SPECIALIZATION](https://github.com/Hassanabazim/Self-Driving-Cars-Specialization)**
 - **[PYTHON-FOR-EVERYBODY-SPECIALIZATION_COURSERA](https://github.com/Hassanabazim/Python-for-Everybody-Specialization)**
 - **[CS50 BY HARVARD UNIVERSITY AND EDX](https://github.com/Hassanabazim/CS50)**
 - **[COMPUTER-VISION-BASICS_COURSERA](https://github.com/Hassanabazim/Computer-Vision-Basics)**
+
 
 ## Featuring YouTube Videos
 
@@ -147,6 +160,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 <div align="center">
