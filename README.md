@@ -1,6 +1,10 @@
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVldHltbDRkZXhnbnRhODFxd2hpd3IycHA3cmNnazQ2NTRodG52YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24FyBsBDh2x1dfTTlM/giphy.gif" width="300" height="155">
 
 <h3 align="center">
   Welcome to Hassan Abdelazeam's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 </h3>
 
 <div align="center">
@@ -13,6 +17,9 @@
   <a href="https://www.youtube.com/@hassanabazim/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://drive.google.com/drive/home">
+    <img src="https://img.shields.io/badge/CV-0077B5?style=flat-square&logo=CV&logoColor=white" alt="CV">
+  </a>
 </div>
 
 
@@ -22,6 +29,8 @@
 - 🌱 I’m currently learning Embedded linux and C++
 - 👯 I’m looking to collaborate on Automotive ADAS Projects
 - 💬 The Rest is History!
+
+
 
 
 ## 🛠️ Programming Languages & Tools
@@ -65,8 +74,6 @@
 
 
 ## 🚀 Projects
-## 🚀 Projects
-
 - **[ETHERNET_MOTION_CONTROLLER](https://github.com/Hassanabazim/ETHERNET_MOTION_CONTROLLER)**
 - **[NTI4MONTH_GP "Self Driving Car Level2"](https://github.com/Hassanabazim/NTI4M-ADAS_GP)**
 - **[STM32 INTERFACING WITH W5500 ETHERNET MODULE (TCP/UDP)](https://github.com/Hassanabazim/STM32_W5500)**
@@ -92,7 +99,7 @@
 - **[COMPUTER-VISION-BASICS_COURSERA](https://github.com/Hassanabazim/Computer-Vision-Basics)**
 
 
-## Featuring YouTube Videos
+## 🚀Featuring YouTube Videos
 
 <table style="border: none;">
   <tr style="border: none;">
