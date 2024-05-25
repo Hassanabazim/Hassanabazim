@@ -1,14 +1,18 @@
-<table>
-  <tr>
-    <td>
-      <h2>Hi, I'm Hassan Abdelazeam, an Embedded Software/Hardware Engineer</h2>
-      <p>Currently, I work as an R&D Engineer at Green Electronics, specializing in building smart systems including circuit design, PCB layout, and software development.</p>
+# Hi, I'm Hassan Abdelazeam
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <h2>About Me</h2>
+      <p>Currently, I work as an R&D Engineer at Green Electronics, specializing in building smart systems including circuit design, PCB layout, and software development..</p>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJuaHpsZnFiNHVnZnRrOXYwazhkamd0eHE4MzNyNTd6emF3djNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Animated Gif" />
     </td>
   </tr>
 </table>
+
+
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-abdelazeam/)
@@ -77,40 +81,73 @@
 
 ## Featuring YouTube Videos
 
-- **STM32 with W5500 Ethernet Module**  
-  [![STM32 with W5500 Ethernet Module](https://img.youtube.com/vi/5M5-zH2IcS0/0.jpg)](https://www.youtube.com/watch?v=5M5-zH2IcS0&ab_channel=HassanAbdelazim)
+<table style="border: none;">
+  <tr style="border: none;">
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=5M5-zH2IcS0&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/5M5-zH2IcS0/0.jpg" alt="STM32 with W5500 Ethernet Module"width="300" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=9gLAfe_VuO4&t=7s&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/9gLAfe_VuO4/0.jpg" alt="Configurable LED Blink"width="300" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=vTlQWRqVwoI&t=2s&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/vTlQWRqVwoI/0.jpg" alt="NTI- Self Driving car Level 2" width="300" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=QnZMxouLXVM&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/QnZMxouLXVM/0.jpg" alt="Chat-Application with Atmega32 using UART and SPI" width="300" height="200" />
+      </a>
+   
+  </tr>
+  <tr>
+     </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=8lXzV6om3Vg&t=388s&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/8lXzV6om3Vg/0.jpg" alt="Payment Application FWD Professional Embedded system by udacity" width="300" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=kIwPYHmGPNw&t=15s&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/kIwPYHmGPNw/0.jpg" alt="On Demand Traffic light FWD" width="300" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=aN1HfuKnM64&t=89s&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/aN1HfuKnM64/0.jpg" alt="SMART HOME SYSTEM with Atmega32 and EEPROM"width="300" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=sYTo0EYj4J4&t=3s&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/sYTo0EYj4J4/0.jpg" alt="CONFIG DUTY CYCLE with Atmega32" width="300" height="200" />
+      </a>
+    </td>
+  
+   
+  </tr>
+  <tr>
+      <td align="center">
+      <a href="https://www.youtube.com/watch?v=lO1FwNaJBKg&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/lO1FwNaJBKg/0.jpg" alt="SMALL OS with Atmega32"width="300" height="200" />
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://www.youtube.com/watch?v=xLC9O0tO8LU&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/xLC9O0tO8LU/0.jpg" alt="FIRE ALARM SYSTEM with two - Atmega32" width="300" height="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=6QoNNEVN9Sc&ab_channel=HassanAbdelazim">
+        <img src="https://img.youtube.com/vi/6QoNNEVN9Sc/0.jpg" alt="Self-Driving Cars Specialization - 4th Course - Final Project" width="300" height="200" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- **Configurable LED Blink in run time with makefile, openocd, and semi hosting system calls**  
-  [![Configurable LED Blink in run time with makefile, openocd, and semi hosting system calls](https://img.youtube.com/vi/9gLAfe_VuO4/0.jpg)](https://www.youtube.com/watch?v=9gLAfe_VuO4&t=7s&ab_channel=HassanAbdelazim)
-
-- **NTI- Self Driving car Level 2**  
-  [![NTI- Self Driving car Level 2](https://img.youtube.com/vi/vTlQWRqVwoI/0.jpg)](https://www.youtube.com/watch?v=vTlQWRqVwoI&t=2s&ab_channel=HassanAbdelazim)
-
-- **Chat-Application with Atmega32 using UART and SPI**  
-  [![Chat-Application with Atmega32 using UART and SPI](https://img.youtube.com/vi/QnZMxouLXVM/0.jpg)](https://www.youtube.com/watch?v=QnZMxouLXVM&ab_channel=HassanAbdelazim)
-
-- **Payment Application FWD Professional Embedded system by udacity**  
-  [![Payment Application FWD Professional Embedded system by udacity](https://img.youtube.com/vi/8lXzV6om3Vg/0.jpg)](https://www.youtube.com/watch?v=8lXzV6om3Vg&t=388s&ab_channel=HassanAbdelazim)
-
-- **On Demand Traffic light FWD**  
-  [![On Demand Traffic light FWD](https://img.youtube.com/vi/kIwPYHmGPNw/0.jpg)](https://www.youtube.com/watch?v=kIwPYHmGPNw&t=15s&ab_channel=HassanAbdelazim)
-
----
-
-- **SMART HOME SYSTEM with Atmega32 and EEPROM**  
-  [![SMART HOME SYSTEM with Atmega32 and EEPROM](https://img.youtube.com/vi/aN1HfuKnM64/0.jpg)](https://www.youtube.com/watch?v=aN1HfuKnM64&t=89s&ab_channel=HassanAbdelazim)
-
-- **CONFIG DUTY CYCLE with Atmega32**  
-  [![CONFIG DUTY CYCLE with Atmega32](https://img.youtube.com/vi/sYTo0EYj4J4/0.jpg)](https://www.youtube.com/watch?v=sYTo0EYj4J4&t=3s&ab_channel=HassanAbdelazim)
-
-- **SMALL OS with Atmega32**  
-  [![SMALL OS with Atmega32](https://img.youtube.com/vi/lO1FwNaJBKg/0.jpg)](https://www.youtube.com/watch?v=lO1FwNaJBKg&ab_channel=HassanAbdelazim)
-
-- **FIRE ALARM SYSTEM with two - Atmega32**  
-  [![FIRE ALARM SYSTEM with two - Atmega32](https://img.youtube.com/vi/xLC9O0tO8LU/0.jpg)](https://www.youtube.com/watch?v=xLC9O0tO8LU&ab_channel=HassanAbdelazim)
-
-- **Self-Driving Cars Specialization - 4th Course - Final Project**  
-  [![Self-Driving Cars Specialization - 4th Course - Final Project](https://img.youtube.com/vi/6QoNNEVN9Sc/0.jpg)](https://www.youtube.com/watch?v=6QoNNEVN9Sc&ab_channel=HassanAbdelazim)
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
