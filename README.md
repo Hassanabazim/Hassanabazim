@@ -17,7 +17,7 @@
   <a href="https://www.youtube.com/@hassanabazim/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://drive.google.com/drive/home">
+  <a href="https://drive.google.com/file/d/153pohcxHgJ-fnRPtr9erhmvS_JRlsGcd/view?usp=drive_link">
     <img src="https://img.shields.io/badge/CV-0077B5?style=flat-square&logo=CV&logoColor=white" alt="CV">
   </a>
 </div>
